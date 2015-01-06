@@ -1,6 +1,6 @@
 nao-walking
 ===========
-Nao walking and doing it like Usian Bolt
+Nao walking and doing it like Usain Bolt
 
 Demo : https://www.youtube.com/watch?v=XJL8eZux6lo
 
